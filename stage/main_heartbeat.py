@@ -5,7 +5,7 @@ def heartbeat(cfg: Configuration, service_name=None):
 
         date_now = datetime.now().isoformat()
 
-        client.patch_company_host_app{last_received_heartbeat: date_now}
+        client.patch_company_host_app{"last_received": date_now}
         cfg.logger.write(logging_INFO, {'heartbeat send': date_new})
 
     except Exception:
