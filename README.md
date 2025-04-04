@@ -1,6 +1,7 @@
 <b>Disclaimer:</b> <br/>
 Wegens veiligheidsredenen en het eigendom van het bedrijf, heb ik na mijn stage geen toegang meer tot de ontwikkelde code en de live omgeving.
 Dit verslag is gebaseerd op mijn herinneringen en aantekeningen van de werkzaamheden die ik tijdens mijn stage heb uitgevoerd.
+Zie de map stage voor de code die ik heb kunnen gebruiken.
 
 ------------------------------------
 
